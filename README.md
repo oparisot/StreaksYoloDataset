@@ -9,6 +9,7 @@ Images were captured between March 2022 and February 2023 from Luxembourg Greate
 
 StreaksYoloDataset can be used to train YOLO detection models on raw astronomical images, enabling the detection of satellites / debris / cosmic rays with astronomical equipment accessible to the public. 
 
+![StreaksYoloDataset](StreaksYoloDataset_cover.png)
 
 
 ## 📜 Dataset Structure

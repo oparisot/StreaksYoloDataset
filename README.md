@@ -49,15 +49,16 @@ If you use this dataset in a publication, please notify us to include it in this
 If you use **StreaksYoloDataset** in your work, please cite it as follows:
 
 ```bibtex
-@dataset{parisot2024streaksyolodataset,
-  author       = {Parisot, Olivier},
-  title        = {StreaksYoloDataset: labeled raw astronomical images for streaks detection},
-  month        = nov,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.14047944},
-  url          = {https://doi.org/10.5281/zenodo.14047944},
+@conference{data24,
+author={Olivier Parisot and Mahmoud Jaziri},
+title={Impact of Satellites Streaks for Observational Astronomy: A Study on Data Captured During One Year from Luxembourg Greater Region},
+booktitle={Proceedings of the 13th International Conference on Data Science, Technology and Applications - Volume 1: DATA},
+year={2024},
+pages={417-424},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0012787800003756},
+isbn={978-989-758-707-8},
 }
 ```
 

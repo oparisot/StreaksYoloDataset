@@ -39,7 +39,7 @@ The following studies were based on this dataset:
 - **[2025] Detecting streaks in smart telescopes images with Deep Learning** – [Link](https://www.researchgate.net/publication/389335066_Detecting_streaks_in_smart_telescopes_images_with_Deep_Learning)  
 - **[2025] Détection Automatique des Traînées Astronomiques avec YOLO – Une Approche Exploratoire pour la Connaissance du Domaine Spatial** – [Link](https://imt-mines-ales.hal.science/hal-05194847v1/)  
 - **[2025] Benchmarking YOLO and RT-DETR models for Streaks Detection** – [Link](https://www.researchgate.net/publication/395711213_Benchmarking_YOLO_and_RT-DETR_models_for_Streaks_Detection)  
-
+- **[2026] NEO-Bench: A New Multi-Source Benchmark for Generalizable Astronomical Streak Detection** – [Link](https://arxiv.org/html/2609.06774v1)  
   
 If you use this dataset in a publication, please notify us to include it in this list.
 
